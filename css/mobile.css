@@ -1,0 +1,19 @@
+@charset "utf-8";
+@media screen and (min-width:130px) and (max-width:480px){
+
+    :root{--color-one:#0D191F;
+          --color-two:#48B3E0;
+          --color-three:#52A3C7;
+          --color-four:#2D3A40;
+          --color-five:#4B97B8;
+          --color-six:#0B42B8;
+          --color-seven:#010817;
+         }
+
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box;}
+
+body{background-color: red;}
+
+}
