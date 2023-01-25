@@ -1,0 +1,20 @@
+@charset "utf-8";
+:root{--color-one:#0D191F;
+    --color-two:#48B3E0;
+    --color-three:#52A3C7;
+    --color-four:#2D3A40;
+    --color-five:#4B97B8;
+    --color-six:#0B42B8;
+    --color-seven:#010817;
+   }
+
+
+   h1{font-size:18px;
+      font-weight: bolder;
+      font-variant: small-caps;}
+
+
+   h2{font-size: 16px;
+     font-weight: bolder;}   
+
+   p{font-size: 14px;}  
